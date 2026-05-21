@@ -196,7 +196,7 @@ Present simple &amp; continuous"></unicode>
                 <instance class="exe.engine.field.TextField">
                  <dictionary>
                   <string role="key" value="_id"></string>
-                  <int value="272"></int>
+                  <int value="280"></int>
                   <string role="key" value="_idevice"></string>
                   <none></none>
                   <string role="key" value="_instruc"></string>
@@ -210,7 +210,7 @@ Present simple &amp; continuous"></unicode>
                  </dictionary>
                 </instance>
                 <string role="key" value="_id"></string>
-                <unicode value="12_125_2.3"></unicode>
+                <unicode value="12_125_2.4"></unicode>
                 <string role="key" value="_imageResource"></string>
                 <instance class="exe.engine.resource.Resource" reference="5">
                  <dictionary>
@@ -221,7 +221,7 @@ Present simple &amp; continuous"></unicode>
                   <string role="key" value="_storageName"></string>
                   <string value="school.jpg"></string>
                   <string role="key" value="_userName"></string>
-                  <string value="c:\\users\\usuario\\appdata\\local\\temp\\tmpznovo8\\school.jpg"></string>
+                  <string value="c:\\users\\usuario\\appdata\\local\\temp\\tmprj28sk\\school.jpg"></string>
                   <string role="key" value="checksum"></string>
                   <string value="21a1a0e9eb46aa8d51ea9fc1bc69f1ab"></string>
                   <string role="key" value="exe.engine.resource.Resource.persistenceVersion"></string>
@@ -250,7 +250,7 @@ Present simple &amp; continuous"></unicode>
            <string role="key" value="intlinks_to_anchors"></string>
            <dictionary></dictionary>
            <string role="key" value="nextImageId"></string>
-           <int value="4"></int>
+           <int value="5"></int>
            <string role="key" value="parentNode"></string>
            <reference key="4"></reference>
           </dictionary>
@@ -328,7 +328,7 @@ Present simple &amp; continuous"></unicode>
          <instance class="exe.engine.node.Node" reference="6">
           <dictionary>
            <string role="key" value="_title"></string>
-           <unicode value="Tarea 2.1"></unicode>
+           <unicode value="Descripción de la Situación de Aprendizaje"></unicode>
            <string role="key" value="idevices"></string>
            <list>
             <instance class="exe.engine.appletidevice.AppletIdevice" reference="7">
@@ -386,7 +386,7 @@ you created in Geogebra.&lt;/p&gt;"></unicode>
               <bool value="1"></bool>
               <string role="key" value="userResources"></string>
               <list>
-               <instance class="exe.engine.resource.Resource" reference="154">
+               <instance class="exe.engine.resource.Resource" reference="155">
                 <dictionary>
                  <string role="key" value="_idevice"></string>
                  <reference key="7"></reference>
@@ -395,7 +395,7 @@ you created in Geogebra.&lt;/p&gt;"></unicode>
                  <string role="key" value="_storageName"></string>
                  <string value="TAREA 2.1.pdf"></string>
                  <string role="key" value="_userName"></string>
-                 <string value="c:\\users\\usuario\\appdata\\local\\temp\\tmpznovo8\\TAREA 2.1.pdf"></string>
+                 <string value="c:\\users\\usuario\\appdata\\local\\temp\\tmprj28sk\\TAREA 2.1.pdf"></string>
                  <string role="key" value="checksum"></string>
                  <string value="9b9cb79ffa4dd3f50ea4600d9473b1e7"></string>
                  <string role="key" value="exe.engine.resource.Resource.persistenceVersion"></string>
@@ -423,7 +423,7 @@ you created in Geogebra.&lt;/p&gt;"></unicode>
            <string role="key" value="exportType"></string>
            <string value="website"></string>
            <string role="key" value="last_full_node_path"></string>
-           <string value="exe-node:SdA%201%20What%20we%20do%20at%20school.:Descripci%C3%B3n%20global:Tarea%202.1"></string>
+           <string value="exe-node:SdA%201%20What%20we%20do%20at%20school.:Descripci%C3%B3n%20global:Descripci%C3%B3n%20de%20la%20Situaci%C3%B3n%20de%20Aprendizaje"></string>
            <string role="key" value="parent"></string>
            <reference key="8"></reference>
            <string role="key" value="top_anchors_linked_from_fields"></string>
@@ -1047,7 +1047,7 @@ complete this learning."></unicode>
          <instance class="exe.engine.node.Node" reference="23">
           <dictionary>
            <string role="key" value="_title"></string>
-           <unicode value="Tarea 5.1 (profesorado)"></unicode>
+           <unicode value="Curación de contenidos. Herramientas digitales para el profesorado"></unicode>
            <string role="key" value="idevices"></string>
            <list>
             <instance class="exe.engine.jsidevice.JsIdevice" reference="21">
@@ -1146,7 +1146,7 @@ complete this learning."></unicode>
                       <instance class="exe.engine.field.TextField">
                        <dictionary>
                         <string role="key" value="_id"></string>
-                        <int value="273"></int>
+                        <int value="281"></int>
                         <string role="key" value="_idevice"></string>
                         <none></none>
                         <string role="key" value="_instruc"></string>
@@ -1160,7 +1160,7 @@ complete this learning."></unicode>
                        </dictionary>
                       </instance>
                       <string role="key" value="_id"></string>
-                      <unicode value="15_125_2.1"></unicode>
+                      <unicode value="15_125_2.2"></unicode>
                       <string role="key" value="_imageResource"></string>
                       <instance class="exe.engine.resource.Resource" reference="24">
                        <dictionary>
@@ -1171,7 +1171,7 @@ complete this learning."></unicode>
                         <string role="key" value="_storageName"></string>
                         <string value="symbaloo.png"></string>
                         <string role="key" value="_userName"></string>
-                        <string value="c:\\users\\usuario\\appdata\\local\\temp\\tmpznovo8\\symbaloo.png"></string>
+                        <string value="c:\\users\\usuario\\appdata\\local\\temp\\tmprj28sk\\symbaloo.png"></string>
                         <string role="key" value="checksum"></string>
                         <string value="e19ff08eaa7b421a1eb1fa45fabdb203"></string>
                         <string role="key" value="exe.engine.resource.Resource.persistenceVersion"></string>
@@ -1200,7 +1200,7 @@ complete this learning."></unicode>
                  <string role="key" value="intlinks_to_anchors"></string>
                  <dictionary></dictionary>
                  <string role="key" value="nextImageId"></string>
-                 <int value="2"></int>
+                 <int value="3"></int>
                  <string role="key" value="parentNode"></string>
                  <reference key="23"></reference>
                 </dictionary>
@@ -1372,7 +1372,7 @@ complete this learning."></unicode>
            <string role="key" value="exportType"></string>
            <string value="website"></string>
            <string role="key" value="last_full_node_path"></string>
-           <string value="exe-node:SdA%201%20What%20we%20do%20at%20school.:Gu%C3%ADa%20did%C3%A1ctica%20-%20Pautas%20de%20aplicaci%C3%B3n%20al%20aula%20para%20el%20profesorado:Tarea%205.1%20%28profesorado%29"></string>
+           <string value="exe-node:SdA%201%20What%20we%20do%20at%20school.:Gu%C3%ADa%20did%C3%A1ctica%20-%20Pautas%20de%20aplicaci%C3%B3n%20al%20aula%20para%20el%20profesorado:Curaci%C3%B3n%20de%20contenidos.%20Herramientas%20digitales%20para%20el%20profesorado"></string>
            <string role="key" value="parent"></string>
            <reference key="27"></reference>
            <string role="key" value="top_anchors_linked_from_fields"></string>
@@ -1384,7 +1384,7 @@ complete this learning."></unicode>
          <instance class="exe.engine.node.Node" reference="30">
           <dictionary>
            <string role="key" value="_title"></string>
-           <unicode value="Tarea 6.1"></unicode>
+           <unicode value="Relación entre tareas y criterios de evaluación"></unicode>
            <string role="key" value="idevices"></string>
            <list>
             <instance class="exe.engine.jsidevice.JsIdevice" reference="28">
@@ -1527,7 +1527,7 @@ complete this learning."></unicode>
            <string role="key" value="exportType"></string>
            <string value="website"></string>
            <string role="key" value="last_full_node_path"></string>
-           <string value="exe-node:SdA%201%20What%20we%20do%20at%20school.:Gu%C3%ADa%20did%C3%A1ctica%20-%20Pautas%20de%20aplicaci%C3%B3n%20al%20aula%20para%20el%20profesorado:Tarea%206.1"></string>
+           <string value="exe-node:SdA%201%20What%20we%20do%20at%20school.:Gu%C3%ADa%20did%C3%A1ctica%20-%20Pautas%20de%20aplicaci%C3%B3n%20al%20aula%20para%20el%20profesorado:Relaci%C3%B3n%20entre%20tareas%20y%20criterios%20de%20evaluaci%C3%B3n"></string>
            <string role="key" value="parent"></string>
            <reference key="27"></reference>
            <string role="key" value="top_anchors_linked_from_fields"></string>
@@ -1539,7 +1539,7 @@ complete this learning."></unicode>
          <instance class="exe.engine.node.Node" reference="31">
           <dictionary>
            <string role="key" value="_title"></string>
-           <unicode value="Tarea 8.1"></unicode>
+           <unicode value="Instrumentos de Evaluación"></unicode>
            <string role="key" value="idevices"></string>
            <list>
             <instance class="exe.engine.appletidevice.AppletIdevice" reference="32">
@@ -1597,7 +1597,7 @@ you created in Geogebra.&lt;/p&gt;"></unicode>
               <bool value="1"></bool>
               <string role="key" value="userResources"></string>
               <list>
-               <instance class="exe.engine.resource.Resource" reference="152">
+               <instance class="exe.engine.resource.Resource" reference="154">
                 <dictionary>
                  <string role="key" value="_idevice"></string>
                  <reference key="32"></reference>
@@ -1606,7 +1606,7 @@ you created in Geogebra.&lt;/p&gt;"></unicode>
                  <string role="key" value="_storageName"></string>
                  <string value="1.instrumentos.pdf"></string>
                  <string role="key" value="_userName"></string>
-                 <string value="c:\\users\\usuario\\appdata\\local\\temp\\tmpznovo8\\1.instrumentos.pdf"></string>
+                 <string value="c:\\users\\usuario\\appdata\\local\\temp\\tmprj28sk\\1.instrumentos.pdf"></string>
                  <string role="key" value="checksum"></string>
                  <string value="4b05c6314f69cef9db34f12b91a76556"></string>
                  <string role="key" value="exe.engine.resource.Resource.persistenceVersion"></string>
@@ -1677,7 +1677,7 @@ you created in Geogebra.&lt;/p&gt;"></unicode>
               <bool value="1"></bool>
               <string role="key" value="userResources"></string>
               <list>
-               <instance class="exe.engine.resource.Resource" reference="151">
+               <instance class="exe.engine.resource.Resource" reference="152">
                 <dictionary>
                  <string role="key" value="_idevice"></string>
                  <reference key="33"></reference>
@@ -1686,7 +1686,7 @@ you created in Geogebra.&lt;/p&gt;"></unicode>
                  <string role="key" value="_storageName"></string>
                  <string value="2.cuestionario.pdf"></string>
                  <string role="key" value="_userName"></string>
-                 <string value="c:\\users\\usuario\\appdata\\local\\temp\\tmpznovo8\\2.cuestionario.pdf"></string>
+                 <string value="c:\\users\\usuario\\appdata\\local\\temp\\tmprj28sk\\2.cuestionario.pdf"></string>
                  <string role="key" value="checksum"></string>
                  <string value="0514d23f8dc6d2e1937e57e0a665a35d"></string>
                  <string role="key" value="exe.engine.resource.Resource.persistenceVersion"></string>
@@ -1757,7 +1757,7 @@ you created in Geogebra.&lt;/p&gt;"></unicode>
               <bool value="1"></bool>
               <string role="key" value="userResources"></string>
               <list>
-               <instance class="exe.engine.resource.Resource" reference="156">
+               <instance class="exe.engine.resource.Resource" reference="157">
                 <dictionary>
                  <string role="key" value="_idevice"></string>
                  <reference key="34"></reference>
@@ -1766,7 +1766,7 @@ you created in Geogebra.&lt;/p&gt;"></unicode>
                  <string role="key" value="_storageName"></string>
                  <string value="3.rubrica.pdf"></string>
                  <string role="key" value="_userName"></string>
-                 <string value="c:\\users\\usuario\\appdata\\local\\temp\\tmpznovo8\\3.rubrica.pdf"></string>
+                 <string value="c:\\users\\usuario\\appdata\\local\\temp\\tmprj28sk\\3.rubrica.pdf"></string>
                  <string role="key" value="checksum"></string>
                  <string value="c624051c9a1da6c4f51a92ce57bc5eb9"></string>
                  <string role="key" value="exe.engine.resource.Resource.persistenceVersion"></string>
@@ -1794,7 +1794,7 @@ you created in Geogebra.&lt;/p&gt;"></unicode>
            <string role="key" value="exportType"></string>
            <string value="website"></string>
            <string role="key" value="last_full_node_path"></string>
-           <string value="exe-node:SdA%201%20What%20we%20do%20at%20school.:Gu%C3%ADa%20did%C3%A1ctica%20-%20Pautas%20de%20aplicaci%C3%B3n%20al%20aula%20para%20el%20profesorado:Tarea%208.1"></string>
+           <string value="exe-node:SdA%201%20What%20we%20do%20at%20school.:Gu%C3%ADa%20did%C3%A1ctica%20-%20Pautas%20de%20aplicaci%C3%B3n%20al%20aula%20para%20el%20profesorado:Instrumentos%20de%20Evaluaci%C3%B3n"></string>
            <string role="key" value="parent"></string>
            <reference key="27"></reference>
            <string role="key" value="top_anchors_linked_from_fields"></string>
@@ -1833,7 +1833,7 @@ you created in Geogebra.&lt;/p&gt;"></unicode>
          <instance class="exe.engine.node.Node" reference="35">
           <dictionary>
            <string role="key" value="_title"></string>
-           <unicode value="Tarea 2.3"></unicode>
+           <unicode value="Decálogo de seguridad. Licencias de uso"></unicode>
            <string role="key" value="idevices"></string>
            <list>
             <instance class="exe.engine.appletidevice.AppletIdevice" reference="36">
@@ -1891,7 +1891,7 @@ you created in Geogebra.&lt;/p&gt;"></unicode>
               <bool value="1"></bool>
               <string role="key" value="userResources"></string>
               <list>
-               <instance class="exe.engine.resource.Resource" reference="155">
+               <instance class="exe.engine.resource.Resource" reference="156">
                 <dictionary>
                  <string role="key" value="_idevice"></string>
                  <reference key="36"></reference>
@@ -1900,7 +1900,7 @@ you created in Geogebra.&lt;/p&gt;"></unicode>
                  <string role="key" value="_storageName"></string>
                  <string value="tarea_2_3.pdf"></string>
                  <string role="key" value="_userName"></string>
-                 <string value="c:\\users\\usuario\\appdata\\local\\temp\\tmpznovo8\\tarea_2_3.pdf"></string>
+                 <string value="c:\\users\\usuario\\appdata\\local\\temp\\tmprj28sk\\tarea_2_3.pdf"></string>
                  <string role="key" value="checksum"></string>
                  <string value="b71eeeeff7b94ab970543c6b388bc765"></string>
                  <string role="key" value="exe.engine.resource.Resource.persistenceVersion"></string>
@@ -1928,7 +1928,7 @@ you created in Geogebra.&lt;/p&gt;"></unicode>
            <string role="key" value="exportType"></string>
            <string value="website"></string>
            <string role="key" value="last_full_node_path"></string>
-           <string value="exe-node:SdA%201%20What%20we%20do%20at%20school.:Indicaciones%20y%20herramientas%20para%20el%20alumnado:Tarea%202.3"></string>
+           <string value="exe-node:SdA%201%20What%20we%20do%20at%20school.:Indicaciones%20y%20herramientas%20para%20el%20alumnado:Dec%C3%A1logo%20de%20seguridad.%20Licencias%20de%20uso"></string>
            <string role="key" value="parent"></string>
            <reference key="37"></reference>
            <string role="key" value="top_anchors_linked_from_fields"></string>
@@ -1940,7 +1940,7 @@ you created in Geogebra.&lt;/p&gt;"></unicode>
          <instance class="exe.engine.node.Node" reference="40">
           <dictionary>
            <string role="key" value="_title"></string>
-           <unicode value="Tarea 5.1 (alumnado)"></unicode>
+           <unicode value="Curación de contenidos. Herramientas digitales para el alumnado"></unicode>
            <string role="key" value="idevices"></string>
            <list>
             <instance class="exe.engine.jsidevice.JsIdevice" reference="38">
@@ -2039,7 +2039,7 @@ you created in Geogebra.&lt;/p&gt;"></unicode>
                       <instance class="exe.engine.field.TextField">
                        <dictionary>
                         <string role="key" value="_id"></string>
-                        <int value="266"></int>
+                        <int value="274"></int>
                         <string role="key" value="_idevice"></string>
                         <none></none>
                         <string role="key" value="_instruc"></string>
@@ -2053,7 +2053,7 @@ you created in Geogebra.&lt;/p&gt;"></unicode>
                        </dictionary>
                       </instance>
                       <string role="key" value="_id"></string>
-                      <unicode value="25_135_2.2"></unicode>
+                      <unicode value="25_135_2.4"></unicode>
                       <string role="key" value="_imageResource"></string>
                       <instance class="exe.engine.resource.Resource" reference="41">
                        <dictionary>
@@ -2064,7 +2064,7 @@ you created in Geogebra.&lt;/p&gt;"></unicode>
                         <string role="key" value="_storageName"></string>
                         <string value="coleccion1.png"></string>
                         <string role="key" value="_userName"></string>
-                        <string value="c:\\users\\usuario\\appdata\\local\\temp\\tmpznovo8\\coleccion1.png"></string>
+                        <string value="c:\\users\\usuario\\appdata\\local\\temp\\tmprj28sk\\coleccion1.png"></string>
                         <string role="key" value="checksum"></string>
                         <string value="c54a18393158a3c2cd3d48d210c68d6e"></string>
                         <string role="key" value="exe.engine.resource.Resource.persistenceVersion"></string>
@@ -2091,7 +2091,7 @@ you created in Geogebra.&lt;/p&gt;"></unicode>
                       <instance class="exe.engine.field.TextField">
                        <dictionary>
                         <string role="key" value="_id"></string>
-                        <int value="267"></int>
+                        <int value="275"></int>
                         <string role="key" value="_idevice"></string>
                         <none></none>
                         <string role="key" value="_instruc"></string>
@@ -2105,7 +2105,7 @@ you created in Geogebra.&lt;/p&gt;"></unicode>
                        </dictionary>
                       </instance>
                       <string role="key" value="_id"></string>
-                      <unicode value="25_135_2.3"></unicode>
+                      <unicode value="25_135_2.5"></unicode>
                       <string role="key" value="_imageResource"></string>
                       <instance class="exe.engine.resource.Resource" reference="42">
                        <dictionary>
@@ -2116,7 +2116,7 @@ you created in Geogebra.&lt;/p&gt;"></unicode>
                         <string role="key" value="_storageName"></string>
                         <string value="coleccion2.png"></string>
                         <string role="key" value="_userName"></string>
-                        <string value="c:\\users\\usuario\\appdata\\local\\temp\\tmpznovo8\\coleccion2.png"></string>
+                        <string value="c:\\users\\usuario\\appdata\\local\\temp\\tmprj28sk\\coleccion2.png"></string>
                         <string role="key" value="checksum"></string>
                         <string value="2acfa1f53ed87354a704219c54c42d3d"></string>
                         <string role="key" value="exe.engine.resource.Resource.persistenceVersion"></string>
@@ -2145,7 +2145,7 @@ you created in Geogebra.&lt;/p&gt;"></unicode>
                  <string role="key" value="intlinks_to_anchors"></string>
                  <dictionary></dictionary>
                  <string role="key" value="nextImageId"></string>
-                 <int value="4"></int>
+                 <int value="6"></int>
                  <string role="key" value="parentNode"></string>
                  <reference key="40"></reference>
                 </dictionary>
@@ -2318,7 +2318,7 @@ you created in Geogebra.&lt;/p&gt;"></unicode>
            <string role="key" value="exportType"></string>
            <string value="website"></string>
            <string role="key" value="last_full_node_path"></string>
-           <string value="exe-node:SdA%201%20What%20we%20do%20at%20school.:Indicaciones%20y%20herramientas%20para%20el%20alumnado:Tarea%205.1%20%28alumnado%29"></string>
+           <string value="exe-node:SdA%201%20What%20we%20do%20at%20school.:Indicaciones%20y%20herramientas%20para%20el%20alumnado:Curaci%C3%B3n%20de%20contenidos.%20Herramientas%20digitales%20para%20el%20alumnado"></string>
            <string role="key" value="parent"></string>
            <reference key="37"></reference>
            <string role="key" value="top_anchors_linked_from_fields"></string>
@@ -2330,7 +2330,7 @@ you created in Geogebra.&lt;/p&gt;"></unicode>
          <instance class="exe.engine.node.Node" reference="47">
           <dictionary>
            <string role="key" value="_title"></string>
-           <unicode value="Tarea 7.1"></unicode>
+           <unicode value="Línea de tiempo. Secuencia de tareas"></unicode>
            <string role="key" value="idevices"></string>
            <list>
             <instance class="exe.engine.jsidevice.JsIdevice" reference="45">
@@ -2430,7 +2430,7 @@ you created in Geogebra.&lt;/p&gt;"></unicode>
                       <instance class="exe.engine.field.TextField">
                        <dictionary>
                         <string role="key" value="_id"></string>
-                        <int value="268"></int>
+                        <int value="276"></int>
                         <string role="key" value="_idevice"></string>
                         <none></none>
                         <string role="key" value="_instruc"></string>
@@ -2444,7 +2444,7 @@ you created in Geogebra.&lt;/p&gt;"></unicode>
                        </dictionary>
                       </instance>
                       <string role="key" value="_id"></string>
-                      <unicode value="27_137_2.4"></unicode>
+                      <unicode value="27_137_2.8"></unicode>
                       <string role="key" value="_imageResource"></string>
                       <instance class="exe.engine.resource.Resource" reference="48">
                        <dictionary>
@@ -2455,7 +2455,7 @@ you created in Geogebra.&lt;/p&gt;"></unicode>
                         <string role="key" value="_storageName"></string>
                         <string value="linea1.png"></string>
                         <string role="key" value="_userName"></string>
-                        <string value="c:\\users\\usuario\\appdata\\local\\temp\\tmpznovo8\\linea1.png"></string>
+                        <string value="c:\\users\\usuario\\appdata\\local\\temp\\tmprj28sk\\linea1.png"></string>
                         <string role="key" value="checksum"></string>
                         <string value="5264574b17ab4b190514a67d39afcb48"></string>
                         <string role="key" value="exe.engine.resource.Resource.persistenceVersion"></string>
@@ -2482,7 +2482,7 @@ you created in Geogebra.&lt;/p&gt;"></unicode>
                       <instance class="exe.engine.field.TextField">
                        <dictionary>
                         <string role="key" value="_id"></string>
-                        <int value="269"></int>
+                        <int value="277"></int>
                         <string role="key" value="_idevice"></string>
                         <none></none>
                         <string role="key" value="_instruc"></string>
@@ -2496,7 +2496,7 @@ you created in Geogebra.&lt;/p&gt;"></unicode>
                        </dictionary>
                       </instance>
                       <string role="key" value="_id"></string>
-                      <unicode value="27_137_2.5"></unicode>
+                      <unicode value="27_137_2.9"></unicode>
                       <string role="key" value="_imageResource"></string>
                       <instance class="exe.engine.resource.Resource" reference="49">
                        <dictionary>
@@ -2507,7 +2507,7 @@ you created in Geogebra.&lt;/p&gt;"></unicode>
                         <string role="key" value="_storageName"></string>
                         <string value="linea2.png"></string>
                         <string role="key" value="_userName"></string>
-                        <string value="c:\\users\\usuario\\appdata\\local\\temp\\tmpznovo8\\linea2.png"></string>
+                        <string value="c:\\users\\usuario\\appdata\\local\\temp\\tmprj28sk\\linea2.png"></string>
                         <string role="key" value="checksum"></string>
                         <string value="1e2f157d0299860c2ccfb1844fdc0e47"></string>
                         <string role="key" value="exe.engine.resource.Resource.persistenceVersion"></string>
@@ -2534,7 +2534,7 @@ you created in Geogebra.&lt;/p&gt;"></unicode>
                       <instance class="exe.engine.field.TextField">
                        <dictionary>
                         <string role="key" value="_id"></string>
-                        <int value="270"></int>
+                        <int value="278"></int>
                         <string role="key" value="_idevice"></string>
                         <none></none>
                         <string role="key" value="_instruc"></string>
@@ -2548,7 +2548,7 @@ you created in Geogebra.&lt;/p&gt;"></unicode>
                        </dictionary>
                       </instance>
                       <string role="key" value="_id"></string>
-                      <unicode value="27_137_2.6"></unicode>
+                      <unicode value="27_137_2.10"></unicode>
                       <string role="key" value="_imageResource"></string>
                       <instance class="exe.engine.resource.Resource" reference="50">
                        <dictionary>
@@ -2559,7 +2559,7 @@ you created in Geogebra.&lt;/p&gt;"></unicode>
                         <string role="key" value="_storageName"></string>
                         <string value="linea3.png"></string>
                         <string role="key" value="_userName"></string>
-                        <string value="c:\\users\\usuario\\appdata\\local\\temp\\tmpznovo8\\linea3.png"></string>
+                        <string value="c:\\users\\usuario\\appdata\\local\\temp\\tmprj28sk\\linea3.png"></string>
                         <string role="key" value="checksum"></string>
                         <string value="f082ea4583b350ba9932b6b832fa62f6"></string>
                         <string role="key" value="exe.engine.resource.Resource.persistenceVersion"></string>
@@ -2586,7 +2586,7 @@ you created in Geogebra.&lt;/p&gt;"></unicode>
                       <instance class="exe.engine.field.TextField">
                        <dictionary>
                         <string role="key" value="_id"></string>
-                        <int value="271"></int>
+                        <int value="279"></int>
                         <string role="key" value="_idevice"></string>
                         <none></none>
                         <string role="key" value="_instruc"></string>
@@ -2600,7 +2600,7 @@ you created in Geogebra.&lt;/p&gt;"></unicode>
                        </dictionary>
                       </instance>
                       <string role="key" value="_id"></string>
-                      <unicode value="27_137_2.7"></unicode>
+                      <unicode value="27_137_2.11"></unicode>
                       <string role="key" value="_imageResource"></string>
                       <instance class="exe.engine.resource.Resource" reference="51">
                        <dictionary>
@@ -2611,7 +2611,7 @@ you created in Geogebra.&lt;/p&gt;"></unicode>
                         <string role="key" value="_storageName"></string>
                         <string value="linea4.png"></string>
                         <string role="key" value="_userName"></string>
-                        <string value="c:\\users\\usuario\\appdata\\local\\temp\\tmpznovo8\\linea4.png"></string>
+                        <string value="c:\\users\\usuario\\appdata\\local\\temp\\tmprj28sk\\linea4.png"></string>
                         <string role="key" value="checksum"></string>
                         <string value="4967b88f51781191d662888f167febca"></string>
                         <string role="key" value="exe.engine.resource.Resource.persistenceVersion"></string>
@@ -2640,7 +2640,7 @@ you created in Geogebra.&lt;/p&gt;"></unicode>
                  <string role="key" value="intlinks_to_anchors"></string>
                  <dictionary></dictionary>
                  <string role="key" value="nextImageId"></string>
-                 <int value="8"></int>
+                 <int value="12"></int>
                  <string role="key" value="parentNode"></string>
                  <reference key="47"></reference>
                 </dictionary>
@@ -2815,7 +2815,7 @@ you created in Geogebra.&lt;/p&gt;"></unicode>
            <string role="key" value="exportType"></string>
            <string value="website"></string>
            <string role="key" value="last_full_node_path"></string>
-           <string value="exe-node:SdA%201%20What%20we%20do%20at%20school.:Indicaciones%20y%20herramientas%20para%20el%20alumnado:Tarea%207.1"></string>
+           <string value="exe-node:SdA%201%20What%20we%20do%20at%20school.:Indicaciones%20y%20herramientas%20para%20el%20alumnado:L%C3%ADnea%20de%20tiempo.%20Secuencia%20de%20tareas"></string>
            <string role="key" value="parent"></string>
            <reference key="37"></reference>
            <string role="key" value="top_anchors_linked_from_fields"></string>
@@ -7016,7 +7016,7 @@ Click on the &amp;lt;Add another option&amp;gt; button to add another answer."><
          <instance class="exe.engine.node.Node" reference="142">
           <dictionary>
            <string role="key" value="_title"></string>
-           <unicode value="Tarea 4.1 Descripción del producto final para el alumnado"></unicode>
+           <unicode value="Descripción del producto final para el alumnado"></unicode>
            <string role="key" value="idevices"></string>
            <list>
             <instance class="exe.engine.jsidevice.JsIdevice" reference="140">
@@ -7159,7 +7159,7 @@ Click on the &amp;lt;Add another option&amp;gt; button to add another answer."><
            <string role="key" value="exportType"></string>
            <string value="website"></string>
            <string role="key" value="last_full_node_path"></string>
-           <string value="exe-node:SdA%201%20What%20we%20do%20at%20school.:Desarrollo%20de%20la%20unidad:Tarea%204.1%20Descripci%C3%B3n%20del%20producto%20final%20para%20el%20alumnado"></string>
+           <string value="exe-node:SdA%201%20What%20we%20do%20at%20school.:Desarrollo%20de%20la%20unidad:Descripci%C3%B3n%20del%20producto%20final%20para%20el%20alumnado"></string>
            <string role="key" value="parent"></string>
            <reference key="59"></reference>
            <string role="key" value="top_anchors_linked_from_fields"></string>
@@ -7508,7 +7508,7 @@ Click on the &amp;lt;Add another option&amp;gt; button to add another answer."><
               <string role="key" value="anchors_linked_from_fields"></string>
               <dictionary></dictionary>
               <string role="key" value="content_w_resourcePaths"></string>
-              <unicode content="true" value="&lt;div class=&quot;exe-text&quot;&gt;&lt;p style=&quot;text-align: left;&quot;&gt;&lt;img src=&quot;http://localhost:51235/previews/C__Users_Usuario_Desktop_curso-cdd-b2-miriam_tarea_final_licencia-cc-by-nc.png&quot; alt=&quot;Licencia CC BY-NC&quot; width=&quot;99&quot; height=&quot;55&quot; style=&quot;font-size: 16.8px; text-align: left; vertical-align: top;&quot; title=&quot;Creative Commons BY-NC 4.0&quot; /&gt; &lt;a href=&quot;https://creativecommons.org/licenses/by-nc/4.0/&quot;&gt;Creative Commons BY-NC 4.0&lt;/a&gt;&lt;/p&gt;&lt;/div&gt;"></unicode>
+              <unicode content="true" value="&lt;div class=&quot;exe-text&quot;&gt;&lt;p style=&quot;text-align: left;&quot;&gt;&lt;img src=&quot;resources/licencia-cc-by-nc.png&quot; alt=&quot;Licencia CC BY-NC&quot; width=&quot;70&quot; height=&quot;39&quot; style=&quot;font-size: 16.8px; text-align: left; vertical-align: top;&quot; title=&quot;Creative Commons BY-NC 4.0&quot; /&gt; &lt;a href=&quot;https://creativecommons.org/licenses/by-nc/4.0/&quot;&gt;Creative Commons BY-NC 4.0&lt;/a&gt;&lt;/p&gt;&lt;/div&gt;"></unicode>
               <string role="key" value="exe.engine.field.Field.persistenceVersion"></string>
               <int value="4"></int>
               <string role="key" value="exe.engine.field.FieldWithResources.persistenceVersion"></string>
@@ -7521,7 +7521,60 @@ Click on the &amp;lt;Add another option&amp;gt; button to add another answer."><
               <instance class="exe.engine.galleryidevice.GalleryImages">
                <dictionary>
                 <string role="key" value=".listitems"></string>
-                <list></list>
+                <list>
+                 <instance class="exe.engine.galleryidevice.GalleryImage">
+                  <dictionary>
+                   <string role="key" value="_caption"></string>
+                   <instance class="exe.engine.field.TextField">
+                    <dictionary>
+                     <string role="key" value="_id"></string>
+                     <int value="282"></int>
+                     <string role="key" value="_idevice"></string>
+                     <none></none>
+                     <string role="key" value="_instruc"></string>
+                     <string value=""></string>
+                     <string role="key" value="_name"></string>
+                     <string value=""></string>
+                     <string role="key" value="content"></string>
+                     <string value=""></string>
+                     <string role="key" value="exe.engine.field.Field.persistenceVersion"></string>
+                     <int value="4"></int>
+                    </dictionary>
+                   </instance>
+                   <string role="key" value="_id"></string>
+                   <unicode value="31_141_2.0"></unicode>
+                   <string role="key" value="_imageResource"></string>
+                   <instance class="exe.engine.resource.Resource" reference="150">
+                    <dictionary>
+                     <string role="key" value="_idevice"></string>
+                     <reference key="148"></reference>
+                     <string role="key" value="_package"></string>
+                     <reference key="2"></reference>
+                     <string role="key" value="_storageName"></string>
+                     <string value="licencia-cc-by-nc.png"></string>
+                     <string role="key" value="_userName"></string>
+                     <string value="c:\\users\\usuario\\appdata\\local\\temp\\tmpves2op.eXe\\previews\\allyourbase\\licencia-cc-by-nc.png"></string>
+                     <string role="key" value="checksum"></string>
+                     <string value="4f91936e1f1c86beb87646bee997e8ed"></string>
+                     <string role="key" value="exe.engine.resource.Resource.persistenceVersion"></string>
+                     <int value="2"></int>
+                     <string role="key" value="exe.engine.resource._Resource.persistenceVersion"></string>
+                     <int value="2"></int>
+                     <string role="key" value="warningMsg"></string>
+                     <string value=""></string>
+                    </dictionary>
+                   </instance>
+                   <string role="key" value="_parent"></string>
+                   <reference key="149"></reference>
+                   <string role="key" value="_thumbnailResource"></string>
+                   <none></none>
+                   <string role="key" value="exe.engine.galleryidevice.GalleryImage.persistenceVersion"></string>
+                   <int value="3"></int>
+                   <string role="key" value="makeThumbnail"></string>
+                   <bool value="0"></bool>
+                  </dictionary>
+                 </instance>
+                </list>
                 <string role="key" value="idevice"></string>
                 <reference key="149"></reference>
                </dictionary>
@@ -7529,7 +7582,7 @@ Click on the &amp;lt;Add another option&amp;gt; button to add another answer."><
               <string role="key" value="intlinks_to_anchors"></string>
               <dictionary></dictionary>
               <string role="key" value="nextImageId"></string>
-              <int value="0"></int>
+              <int value="1"></int>
               <string role="key" value="parentNode"></string>
               <reference key="145"></reference>
              </dictionary>
@@ -7554,12 +7607,14 @@ Click on the &amp;lt;Add another option&amp;gt; button to add another answer."><
            <string role="key" value="undo"></string>
            <bool value="1"></bool>
            <string role="key" value="userResources"></string>
-           <list></list>
+           <list>
+            <reference key="150"></reference>
+           </list>
            <string role="key" value="version"></string>
            <int value="0"></int>
           </dictionary>
          </instance>
-         <instance class="exe.engine.appletidevice.AppletIdevice" reference="150">
+         <instance class="exe.engine.appletidevice.AppletIdevice" reference="151">
           <dictionary>
            <string role="key" value="_title"></string>
            <unicode value="Java Applet"></unicode>
@@ -7612,21 +7667,21 @@ you created in Geogebra.&lt;/p&gt;"></unicode>
            <string role="key" value="type"></string>
            <unicode value="other"></unicode>
            <string role="key" value="undo"></string>
-           <bool value="1"></bool>
+           <bool value="0"></bool>
            <string role="key" value="userResources"></string>
            <list>
             <instance class="exe.engine.resource.Resource" reference="153">
              <dictionary>
               <string role="key" value="_idevice"></string>
-              <reference key="150"></reference>
+              <reference key="151"></reference>
               <string role="key" value="_package"></string>
               <reference key="2"></reference>
               <string role="key" value="_storageName"></string>
               <string value="tarea_final.elp"></string>
               <string role="key" value="_userName"></string>
-              <string value="c:\\users\\usuario\\appdata\\local\\temp\\tmpznovo8\\tarea_final.elp"></string>
+              <string value="C:\\Users\\Usuario\\Desktop\\tarea_final.elp"></string>
               <string role="key" value="checksum"></string>
-              <string value="60bff0c770f70892577c151c34de8d9e"></string>
+              <string value="139fbcb1f319e0a24e4028e98ec1b573"></string>
               <string role="key" value="exe.engine.resource.Resource.persistenceVersion"></string>
               <int value="2"></int>
               <string role="key" value="exe.engine.resource._Resource.persistenceVersion"></string>
@@ -9051,7 +9106,11 @@ A nivel de primaria o A1"></unicode>
   <dictionary>
    <string role="key" value="0514d23f8dc6d2e1937e57e0a665a35d"></string>
    <list>
-    <reference key="151"></reference>
+    <reference key="152"></reference>
+   </list>
+   <string role="key" value="139fbcb1f319e0a24e4028e98ec1b573"></string>
+   <list>
+    <reference key="153"></reference>
    </list>
    <string role="key" value="1e2f157d0299860c2ccfb1844fdc0e47"></string>
    <list>
@@ -9071,23 +9130,23 @@ A nivel de primaria o A1"></unicode>
    </list>
    <string role="key" value="4b05c6314f69cef9db34f12b91a76556"></string>
    <list>
-    <reference key="152"></reference>
+    <reference key="154"></reference>
+   </list>
+   <string role="key" value="4f91936e1f1c86beb87646bee997e8ed"></string>
+   <list>
+    <reference key="150"></reference>
    </list>
    <string role="key" value="5264574b17ab4b190514a67d39afcb48"></string>
    <list>
     <reference key="48"></reference>
    </list>
-   <string role="key" value="60bff0c770f70892577c151c34de8d9e"></string>
-   <list>
-    <reference key="153"></reference>
-   </list>
    <string role="key" value="9b9cb79ffa4dd3f50ea4600d9473b1e7"></string>
    <list>
-    <reference key="154"></reference>
+    <reference key="155"></reference>
    </list>
    <string role="key" value="b71eeeeff7b94ab970543c6b388bc765"></string>
    <list>
-    <reference key="155"></reference>
+    <reference key="156"></reference>
    </list>
    <string role="key" value="c54a18393158a3c2cd3d48d210c68d6e"></string>
    <list>
@@ -9095,7 +9154,7 @@ A nivel de primaria o A1"></unicode>
    </list>
    <string role="key" value="c624051c9a1da6c4f51a92ce57bc5eb9"></string>
    <list>
-    <reference key="156"></reference>
+    <reference key="157"></reference>
    </list>
    <string role="key" value="e19ff08eaa7b421a1eb1fa45fabdb203"></string>
    <list>
